@@ -164,3 +164,4 @@ macOS 14.4+ recommended	FAQ #4	✅ PRD confirmed — ProcessTap best experience,
 CCPA	Privacy section + trust bar	✅ Added — enterprise-level cert, applies to all Notta products including Desktop	Fact Sheet Section 1
 
 
+# 0327morning
